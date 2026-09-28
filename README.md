@@ -23,3 +23,5 @@
 
 ---
 *Built with 🌙 by Nixy — all nine, one sky.*
+
+<sub>Last updated: September 27, 2026 — all builds green ✅</sub>
